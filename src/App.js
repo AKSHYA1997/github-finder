@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar title="New Title" />
+        <Navbar />
         {/* <UserItem /> */}
         <div className="container">
           <Users />
